@@ -10,7 +10,7 @@ It took me 1 day to complete.
 4. Z-index
 5. Background Images
 
-[![main page clickable image](./assets/images/Landing%20page.png "main page")](https://trendsof25.netlify.app/)
+[![main page clickable image](./assets/images/Landing%20page.png "main page")](https://product-landing-page15.netlify.app/)
 
 
-  ##### [Click here to view live project](https://trendsof25.netlify.app/ "click here to view page")
+  ##### [Click here to view live project](https://product-landing-page15.netlify.app/ "click here to view page")
